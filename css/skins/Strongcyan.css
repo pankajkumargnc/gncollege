@@ -1,0 +1,255 @@
+/* Fraction Slider Style
+====================================*/
+.fraction-slider .next:hover,.fraction-slider .prev:hover,
+.fraction-slider .next:hover:before,.fraction-slider .prev:hover:before {color:#1abc9c!important;border-color:#1abc9c!important;}
+
+/* Service Box Style
+====================================*/
+.serviceBox_1 .service-icon i{color: #1ABC9C;}
+.serviceBox_4 .service-icon {background: #1ABC9C;}
+.serviceBox_4 .service-icon:before {border: 3px solid #1ABC9C;}
+.serviceBox_5> span {background:#1ABC9C;}
+.serviceBox_7 .service-icon{background: #1abc9c;}
+
+.serviceBox_4 .read a,
+.serviceBox_5 .read a{
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #16a085 0%, #16a085 50%, #1ABC9C 50%) repeat scroll 100% 0 / 200% 100%;
+}
+
+/* Common Background Color Style
+====================================*/
+.flickr-feed li .hover,
+.progress_skill .bar,
+.swipe-navi .swipe-left,
+.swipe-navi .swipe-right,
+.highlight.default,
+.carousel-pagination li.active,
+.theme-color-pt .pricingTable:before,
+.pricingBlock.theme-color-pt .pricingTable-header .price-value
+{
+	background-color: #1abc9c;
+}
+
+/* Common Text Color Style
+====================================*/
+.testimonial-review small,
+#breadcrumbs ul li:last-child a,
+.dropcap.default,
+.panel-heading:hover a,
+.active_acc .panel-title a,
+.panel-heading:hover  a,
+.panel-heading:hover .accordian-icon,
+.panel.panel-default i,
+.panel .panel-title > a:before,
+.recent_tab_list li a:hover,
+.feature-block h4,
+.option a.fa:hover,
+.sidebar .widget ul.arrows_list li a:hover,
+.sidebar .widget ul.archives_list li a:hover,
+.parallax-testimonial-review small,
+.footer li a:hover,.author_bio > h5 a,.author_name > a:hover,.project_details .details li a:hover{
+    color: #1abc9c;
+}
+
+/* Tabs Style
+====================================*/
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus,
+.nav-tabs li.active, .nav-tabs li.active a, .nav-tabs li.active a:hover
+{ border-top-color:#1abc9c; color:#1abc9c;}
+
+/* List & Bullets Style
+====================================*/
+.list_style.square li:before,
+.list_style.circle li:before{
+    background: #1abc9c;
+}
+
+.list_style li a:hover,
+.multi-icon li i.fa,
+.list_style.star li:before,
+.list_style.right-arrow li:before,
+.list_style.hand li:before,
+.list_style.play li:before,
+.list_style.dubble-right-arrow li:before{
+    color: #1abc9c;
+}
+
+/* Buttons & Headings Style
+====================================*/
+.btn-default,
+.dropcap_block.default,
+.icon_lists .fa-hover a:hover,
+.dividerHeading h4::after,
+.dividerHeading h4::before,
+.widget_title h4::after,
+.widget_title h4::before
+{
+    background-color:#1abc9c;
+}
+
+.theme-color-pt .btn-default {background:#1abc9c;}
+.btn-default:hover,.theme-color-pt .btn-default:hover{background-color:#18A288;}
+.btntoTop{background-color: #1abc9c;}
+.btntoTop.active:hover{
+    background-color: #18A288;
+}
+
+/* Blog Page Style
+====================================*/
+#site-searchform #searchsubmit,
+.tags li a:hover,
+.shares li a:hover,
+.blogPic .blog-hover .icon,
+.blog_large .day, .blog_single .day,
+.author_desc{
+    background-color: #1ABC9C;
+}
+
+#site-searchform #searchsubmit:hover{background-color:#18A288;}
+.blogPic .blog-hover .icon,
+.author_desc,
+.blog_large .day, .blog_single .day,
+#filter li.selected a:before{background-color: #1abc9c;}
+
+.list-group-item.active,
+.list-group-item.active:focus,
+.list-group-item.active:hover{
+    background-color: #1abc9c;
+    border-color: #1abc9c;
+}
+.blog_medium .day{background:#1abc9c;}
+.panel.active_acc, .panel:hover{border-top-color:#1abc9c;}
+.comment-container:hover { border-color:#1abc9c;}
+
+.blogTitle > a:hover h2,
+.blog_large .post_meta .metaInfo > span > a:hover, .blog_single .post_meta .metaInfo > span > a:hover,
+.blogMeta a:hover, .blogTitle span:hover,
+.blog_medium .post_meta .metaInfo > span > a:hover,
+.blog_medium .post_meta h2:hover a,
+.blog_large .post_meta h2:hover a, .blog_single .post_meta h2:hover a,
+#comment-list li .comment-container:hover a,
+#comment-list li .comment-container:hover .comment-date,
+.comments_list a,
+.post-title > a:hover,
+.post-slide a.readmore:hover{
+    color: #1abc9c;
+}
+
+.form-control:focus,#site-searchform #s:focus { border-color:#1abc9c;box-shadow:0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(26, 188, 156, 0.6);}
+blockquote.default,.theme-color-pt .pricingTable {border-color:#1abc9c;}
+
+/* Home Page Style
+====================================*/
+.social_media_team{background:rgba(26, 188, 156, 0.55);}
+
+.post-detail a:hover{ color: #1abc9c;}
+.post-detail .read-more { color: #1abc9c; }
+.post-detail .read-more:hover{ color: #1abc9c; }
+.isotope .title::after {
+    border-bottom: 2px solid #1abc9c;
+}
+
+.testimonial-item blockquote { border-top: 3px solid #1abc9c;}
+.testimonial-review > img {border: 2px solid #1abc9c;}
+.progress_skill:hover .bar { background: #16a085 !important;}
+
+/* Promo Box
+====================================*/
+.promo_box.reverse{
+    background:#1abc9c;
+}
+.promo_box.reverse .pb_action a.btn:hover {
+    color:#1abc9c;
+}
+
+/* Portfolio & Recent Item Style
+====================================*/
+#filter li.selected a, #filter li a:hover{color: #1abc9c;}
+#filter li.selected a:after, #filter li a:hover:after {
+    background: #1abc9c;
+    width: 100%;
+}
+
+.inner {
+    background:rgba(26, 188, 156, 0.80);
+    color: #fff;
+}
+.recent-item:hover .touching.medium .plus_overlay {border-bottom:500px solid rgba(26, 188, 156, 0.55);}
+.recent-item .touching.medium .plus_overlay { border-bottom:50px solid #16CDAC;}
+
+.option a i:hover{
+    color:rgba(26, 188, 156, 0.80);
+}
+#breadcrumbs ul li a,
+.masonry_wrapper_blog .metaInfo a:hover,
+.blog-item > span a:hover,
+.blog-title a:hover{
+    color:#1abc9c;
+}
+
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
+    background:#1abc9c;
+    border-color: #1abc9c;
+}
+
+
+.page_head {background: #1abc9c;}
+.page_title h2{
+    border-color:#1abc9c;
+}
+
+/* Navigation Menu Bar Style
+====================================*/
+.navbar-nav > li.active > a,
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus{
+    background: #1abc9c;
+}
+
+
+.navbar-nav > li > a:hover,
+.navbar-nav > li > a:focus,
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus,
+.navbar-default .navbar-nav .open .dropdown-menu > .disabled > a,
+.navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:hover,
+.navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:focus
+{
+    background:#1abc9c;
+}
+.navbar-default .navbar-nav > li > a:after {background: #1abc9c;}
+.navbar-default .navbar-nav > li > a > span.data-hover::before {background: #1abc9c;}
+.navbar-nav > li.active {
+    background: #18A288;
+}
+
+.navbar-nav > li > ul:before{ border-bottom-color:#1ABC9C; }
+.navbar-nav .dropdown-menu > li > a:hover{ background: #1ABC9C; /*color: #fff;*/}
+
+@media only screen and (max-width: 767px) {
+    .navbar-nav > li > a:hover,.navbar-nav > li > a:focus,.navbar-nav > li.active > a,
+    .navbar-default .navbar-nav > .active > a,
+    .navbar-default .navbar-nav > .active > a:hover,
+    .navbar-default .navbar-nav > .active > a:focus,
+    .navbar-default .navbar-nav > .open > a,
+    .navbar-default .navbar-nav > .open > a:hover,
+    .navbar-default .navbar-nav > .open > a:focus,
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus,
+    .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a,
+    .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:focus
+    {
+        background:#1abc9c !important;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus
+    {
+        background:#1abc9c;
+    }
+}

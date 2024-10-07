@@ -1,0 +1,140 @@
+/* SLIDER STYLES */
+
+.slider-wrapper{
+    background: #323A45  url("../images/fraction-slider/base.jpg") no-repeat;
+    background-size:100%;
+    border-bottom: 2px solid #C6C6C6;
+    width:100%;
+    max-height: 450px;
+    /*position:relative;*/
+    overflow:hidden;
+    clear:both;
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1280px){
+    .slider-wrapper
+    {
+        max-height:267px;
+    }
+}
+@media only screen and (min-width: 900px) and (max-width: 1024px){
+
+    .slider-wrapper
+    {
+        max-height:230px;
+    }
+}
+@media only screen and (min-width: 751px) and (max-width: 900px){
+
+    .slider-wrapper
+    {
+        max-height:190px;
+    }
+}
+@media only screen and (min-width: 641px) and (max-width: 750px){
+
+    .slider-wrapper
+    {
+        max-height:180px;
+    }
+}
+@media only screen and (min-width: 480px) and (max-width: 640px){
+
+    .slider-wrapper
+    {
+        max-height:172px;
+    }
+}
+@media only screen and (max-width: 479px){
+
+    .slider-wrapper
+    {
+        max-height:108px;
+    }
+}
+
+/* ELEMENT STYLES */
+
+/*---------------Slider-1-------------*/
+.slide .slide-1
+{
+    color: #f10505;
+    font-size: 330%;
+    font-weight: 700;
+    font-family: ' arial', sans-serif;
+    text-transform:uppercase;
+}
+.slide .slide-1a{
+    color: #fff;
+    background:#4A4444 ;
+    font-size: 160%;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    text-transform:capitalize;
+    padding:0.6% 1%;
+    box-sizing:content-box;
+}
+
+/*-------Slider-2---------*/
+.slide .slide-2{
+    background: #fff;
+    color: #000;
+    padding: 0.5% 0.4%;
+    font-size: 360%;
+    font-weight: 600;
+    font-family: 'open sans', sans-serif;
+    text-transform: capitalize;
+    box-sizing:content-box;
+}
+.slider .slide-2a{
+    background: #000;
+    color: #fff;
+    padding: 0.5% 0.7%;
+    font-size: 260%;
+    font-weight: 600;
+    font-family: 'open sans', sans-serif;
+    text-transform: capitalize;
+    box-sizing:content-box;
+}
+.slider .slide-2b{
+    background: #727cb6;
+    padding: 0.5% 0.7%;
+    font-size: 180%;
+    font-weight: 600;
+    font-family: 'open sans', sans-serif;
+    text-transform: capitalize;
+    color:#fff;
+    box-sizing:content-box;
+}
+
+/*-------Slider-3---------*/
+.slider p{
+    white-space: nowrap;
+    text-transform:uppercase;
+}
+
+.slider .slide-heading{
+    background:#fff;
+    color: #403F3F;
+    font: 600 36px "open sans";
+    padding: 1% 1.5%;
+    border-radius: 3px;
+    box-sizing:content-box;
+}
+
+.slider .sub-line{
+    background:#373B3F;
+    color: #fff;
+    font-size:22px;
+    font-weight: normal;
+    text-align:center;
+    font-weight: 500;
+    padding: 1%;
+    border-radius: 3px;
+    box-sizing:content-box;
+}
+
+.slide .btn-default{
+    transition:none;
+    box-sizing:content-box;
+}
