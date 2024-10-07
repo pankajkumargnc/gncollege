@@ -248,7 +248,7 @@ a:focus{
 ====================================*/
 .page_head {
     /* background:  #11446B; */
-    background-image:  url(/images/gncbanner1.gif) no-repeat;
+    background-image:  url(/images/gncbanner1.gif);
     background-size: cover;
     border-bottom: 1px solid #EAEAEA;
     padding:30px 0;
