@@ -5691,19 +5691,26 @@ ul{
 }
 .notification-section h1 {
     text-align: center;
-    padding: 10px 0px;
-    margin-top: 5px;
+    padding: 0px 0px;
+    margin-top: 15px;
     color: #15b994;
-    border: 3px solid;
-    box-shadow: 0px 0px 10px 3px lightskyblue;
+    margin-bottom: 0px;
+    /* border: 3px solid; */
+    /* box-shadow: 0px 0px 10px 3px lightskyblue; */
     white-space: nowrap;
     overflow: hidden;
-    animation: typing 2s,cursor .3s step-end infinite alternate;
+    /* animation: typing 2s,cursor .3s step-end infinite alternate;
     width: 100%;
-    -webkit-animation: typing 2s,cursor .3s step-end infinite alternate;
+    -webkit-animation: typing 2s,cursor .3s step-end infinite alternate; */
 }
 .notification-section h1:hover{
     color: #02A2DD;
+}
+.notification-section h1 img{
+    background-size: cover;
+    padding: 0;
+    height: 40px;
+    
 }
 @keyframes cursor{
     50%{border-color: transparent;}
